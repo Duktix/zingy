@@ -1,0 +1,3 @@
+Sitemap:https://Frezit.github.io/zingy//sitemap.xml
+User-agent:*
+Disallow:
